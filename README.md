@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Lee's+GitHub!👋)](https://git.io/typing-svg)
 
-<a href="https://github.com/Lee-jonghwa/Lee-jonghwa" target="_blank"><img src="https://img.shields.io/badge/hell0 world-FFFFFF?style=for-the-badge&logo=aeroflot&logoColor=02458D"/></a>
+<a href="https://github.com/Lee-jonghwa/Lee-jonghwa" target="_blank"><img src="https://img.shields.io/badge/Lee's Git it-FFFFFF?style=for-the-badge&logo=aeroflot&logoColor=02458D"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-jonghwa&count_bg=%2372F48C&title_bg=%239A9A9A&icon=probot.svg&icon_color=%23FFFA00&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 
